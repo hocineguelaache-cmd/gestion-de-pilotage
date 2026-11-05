@@ -2,7 +2,8 @@ Application de Gestion des Vols pour Compagnie Aérienne
 
 Projet universitaire — 3ème année ING (module : Génie Logiciel) Université Abderrahmane Mira de Béjaïa — Faculté des Sciences Exactes, Département d'Informatique.
 
-📄 Document du projet : le rapport complet est disponible ici : .docs/RapportFinale.pdf
+📄 Document du projet : le rapport complet est disponible ici : 
+(<docs/RapportFinale.pdf>). Il est maintenant [RapportFinale.pdf](docs/RapportFinale.pdf)
 
 Présentation du projet
 
@@ -82,6 +83,9 @@ CREATE TABLE Vol (
     CONSTRAINT fk_Vol_Pilote FOREIGN KEY (idPilote)
         REFERENCES Pilote (idPilote) ON DELETE RESTRICT
 );
+
 Auteurs
 
 Projet réalisé par :
+Guelaache Hocine
+Boukhenak kamel
