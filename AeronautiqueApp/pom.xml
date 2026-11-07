@@ -34,7 +34,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>com.mycompany.aeronautiqueapp.AeronautiqueApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
