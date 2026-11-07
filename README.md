@@ -1,4 +1,5 @@
-# ✈️ Système de Gestion Aéronautique (SGA)
+# ✈️ Système de gestion-de-pilotage
+
 
 Application de bureau Java (Swing) de **gestion des vols d'une compagnie aérienne** : pilotes, avions, vols et recherche avancée, avec authentification et base de données MySQL.
 
@@ -36,7 +37,7 @@ Dans une compagnie aérienne, chaque vol est assuré par **un avion** et **un pi
 
 Le rapport complet du projet (analyse, UML, modèle de données) accompagne ce dépôt : .docs/rapportfinal.pdf 
 
-[Voir le cahier des charges (.docs/rapportfinal.pdf)](.docs/rapportfinal.pdf).
+[Voir le cahier des charges (.docs/rapportfinal.pdf)](.docs/RapportFinale.pdf).
 
 **Fonctionnalités exclues** (cahier des charges) : réservation / vente de billets, suivi en temps réel des vols, gestion de la maintenance.
 
