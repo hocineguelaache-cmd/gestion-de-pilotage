@@ -6,7 +6,7 @@ Application de bureau Java (Swing) de **gestion des vols d'une compagnie aérien
 > Faculté des Sciences Exactes, Université Abderrahmane Mira de Béjaia
 > Chargée de cours : L. Hamza · Chargées de TP : N. Bair & S. Boussoufa
 
-**Réalisé par :** BOUKHENAK Kamel · GUELAACHE Houcine
+**Réalisé par :** BOUKHENAK Kamel · GUELAACHE Hocine
 
 ---
 
@@ -34,7 +34,9 @@ Dans une compagnie aérienne, chaque vol est assuré par **un avion** et **un pi
 - traduire le modèle en **schéma relationnel** MySQL ;
 - réaliser une application qui gère ces informations, avec une interface graphique moderne.
 
-Le rapport complet du projet (analyse, UML, modèle de données) accompagne ce dépôt : `AeronautiqueApp-rapport.pdf`.
+Le rapport complet du projet (analyse, UML, modèle de données) accompagne ce dépôt : .docs/rapportfinal.pdf 
+
+[Voir le cahier des charges (.docs/rapportfinal.pdf)](.docs/rapportfinal.pdf).
 
 **Fonctionnalités exclues** (cahier des charges) : réservation / vente de billets, suivi en temps réel des vols, gestion de la maintenance.
 
@@ -130,8 +132,8 @@ Liste des vols (pilote, avion, trajet, dates, statut) et formulaire d'ajout.
 ## 📂 Structure du projet
 
 ```
-BOUKHENAK KAMEL GUELAACHE HOCINE G1/
-├── AeronautiqueApp/                 ← projet Maven (à ouvrir dans NetBeans)
+
+├── gestion-de-pilotage    ← projet Maven (à ouvrir dans NetBeans)             
 │   ├── pom.xml
 │   └── src/main/java/
 │       ├── com/mycompany/aeronautiqueapp/
@@ -299,6 +301,6 @@ Les diagrammes complets sont dans le rapport (`AeronautiqueApp-rapport.pdf`) :
 ## 👥 Auteurs
 
 - **BOUKHENAK Kamel**
-- **GUELAACHE Houcine**
+- **GUELAACHE Hocine**
 
 Université Abderrahmane Mira de Béjaia — Année universitaire 2025/2026
